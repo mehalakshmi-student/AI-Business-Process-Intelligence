@@ -1,0 +1,47 @@
+
+AI-POWERED BUSINESS PROCESS INTELLIGENCE
+& DECISION SUPPORT SYSTEM
+
+1. PROJECT OVERVIEW
+
+This project analyzes e-commerce business
+operations and supports business decisions
+using data analytics and machine learning.
+
+2. OBJECTIVES
+
+- Analyze business performance.
+- Identify operational problems.
+- Analyze customer satisfaction.
+- Predict order cancellation risk.
+- Recommend business improvements.
+
+3. TECHNOLOGIES USED
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Plotly
+- Gradio
+- Google Colab
+
+4. KEY FEATURES
+
+- Business performance analysis
+- Sales visualization
+- Order cancellation prediction
+- Risk classification
+- Business recommendations
+- Interactive web application
+
+5. PROJECT OUTCOME
+
+The system demonstrates how business
+analytics and machine learning can support
+better business decisions.
+
+6. DATASET
+
+A simulated e-commerce dataset was used
+for project development and testing.
